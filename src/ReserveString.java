@@ -4,6 +4,5 @@ public class ReserveString {
         s.append("Hello world");
         System.out.println(s);
         System.out.println(s.reverse());
-
     }
 }
