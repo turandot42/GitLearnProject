@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8564ceb6-fda1-42ae-89b6-86039b3b5a70" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/GitLearnProject" beforeDir="false" afterPath="$PROJECT_DIR$/GitLearnProject" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/GitLearnProject/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/GitLearnProject/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Roman.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Roman.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -22,7 +24,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/learn/GitLearnProject" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1VXzBv04dDjkXuASuc6wKiZICw5" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
