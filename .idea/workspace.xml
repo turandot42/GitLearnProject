@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8564ceb6-fda1-42ae-89b6-86039b3b5a70" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/GitLearnProject" beforeDir="false" afterPath="$PROJECT_DIR$/GitLearnProject" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/GitLearnProject/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/GitLearnProject/.gitignore" afterDir="false" />
     </list>
